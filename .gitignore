@@ -1,0 +1,9 @@
+models/
+data/activations_*/
+data/layer_stacks_*/
+data/*.parquet
+__pycache__/
+*.pyc
+*.pyy
+benchmark
+.venv/
