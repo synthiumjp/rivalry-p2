@@ -1,0 +1,800 @@
+{"prompt_id": "cat1_3519", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Swimming in a coordinated manner."}
+{"prompt_id": "cat1_3843", "r_p": 0.95, "n_correct": 1, "n": 20, "greedy_answer": "Line of Duty"}
+{"prompt_id": "cat1_1153", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "A three-wheeled car."}
+{"prompt_id": "cat1_3706", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "LinkedIn"}
+{"prompt_id": "cat1_1118", "r_p": 0.75, "n_correct": 5, "n": 20, "greedy_answer": "The Italian Job"}
+{"prompt_id": "cat1_3720", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "A Christmas bauble."}
+{"prompt_id": "cat1_1217", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Only Fools and Horses"}
+{"prompt_id": "cat1_3281", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Cryonics"}
+{"prompt_id": "cat1_3728", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hugh Laurie"}
+{"prompt_id": "cat1_3512", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mount Chimborazo"}
+{"prompt_id": "cat1_2685", "r_p": 0.9, "n_correct": 2, "n": 20, "greedy_answer": "Mike Wazowski"}
+{"prompt_id": "cat1_1699", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "Creighton."}
+{"prompt_id": "cat1_1831", "r_p": 0.30000000000000004, "n_correct": 14, "n": 20, "greedy_answer": "Carlsberg"}
+{"prompt_id": "cat1_3099", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Alexa Chung"}
+{"prompt_id": "cat1_2715", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "1950s"}
+{"prompt_id": "cat1_0653", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "Pepsi"}
+{"prompt_id": "cat1_1420", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hedgehogs"}
+{"prompt_id": "cat1_1886", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "3"}
+{"prompt_id": "cat1_4027", "r_p": 0.55, "n_correct": 9, "n": 20, "greedy_answer": "Steed and Peel"}
+{"prompt_id": "cat1_1432", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Trout"}
+{"prompt_id": "cat1_1537", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Radon"}
+{"prompt_id": "cat1_1043", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Bruce"}
+{"prompt_id": "cat1_2395", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Conchita Wurst"}
+{"prompt_id": "cat1_2929", "r_p": 0.9, "n_correct": 2, "n": 20, "greedy_answer": "Trevor McDonald"}
+{"prompt_id": "cat1_1033", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Duke of Wellington"}
+{"prompt_id": "cat1_0975", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "6"}
+{"prompt_id": "cat1_4165", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mexico"}
+{"prompt_id": "cat1_3900", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Asgard"}
+{"prompt_id": "cat1_3035", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Goat Island"}
+{"prompt_id": "cat1_2730", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Henry Purcell"}
+{"prompt_id": "cat1_4015", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Charlie Sheen"}
+{"prompt_id": "cat1_2158", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Jedburgh"}
+{"prompt_id": "cat1_3798", "r_p": 0.7, "n_correct": 6, "n": 20, "greedy_answer": "She dyed her hair blonde."}
+{"prompt_id": "cat1_1997", "r_p": 0.4, "n_correct": 12, "n": 20, "greedy_answer": "Dolores"}
+{"prompt_id": "cat1_1595", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Death in the Afternoon"}
+{"prompt_id": "cat1_3556", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Judaism"}
+{"prompt_id": "cat1_2935", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Concorde"}
+{"prompt_id": "cat1_3248", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Suez Canal"}
+{"prompt_id": "cat1_0845", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "301"}
+{"prompt_id": "cat1_2067", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "March"}
+{"prompt_id": "cat1_2247", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "From Russia with Love"}
+{"prompt_id": "cat1_2143", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Illinois"}
+{"prompt_id": "cat1_3142", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "240"}
+{"prompt_id": "cat1_3953", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Wandering albatross"}
+{"prompt_id": "cat1_1238", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Abacus"}
+{"prompt_id": "cat1_1921", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "12"}
+{"prompt_id": "cat1_3529", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Indonesian rupiah."}
+{"prompt_id": "cat1_3532", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Nutcracker"}
+{"prompt_id": "cat1_2920", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Autobahnen"}
+{"prompt_id": "cat1_1969", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "October"}
+{"prompt_id": "cat1_0951", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ritchie Valens"}
+{"prompt_id": "cat1_3112", "r_p": 0.55, "n_correct": 9, "n": 20, "greedy_answer": "Selfridges"}
+{"prompt_id": "cat1_0789", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mao Zedong"}
+{"prompt_id": "cat1_1554", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Elizabeth Taylor"}
+{"prompt_id": "cat1_2924", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Southampton"}
+{"prompt_id": "cat1_1988", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Baseball"}
+{"prompt_id": "cat1_2601", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Liverpool"}
+{"prompt_id": "cat1_1725", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Periodic Table"}
+{"prompt_id": "cat1_1618", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Braille"}
+{"prompt_id": "cat1_2529", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "The Great Pyramid of Giza"}
+{"prompt_id": "cat1_4109", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hair of the dog"}
+{"prompt_id": "cat1_0945", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Taxman"}
+{"prompt_id": "cat1_1878", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Green."}
+{"prompt_id": "cat1_2219", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "London"}
+{"prompt_id": "cat1_1547", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "5"}
+{"prompt_id": "cat1_2774", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Alexander the Great"}
+{"prompt_id": "cat1_2974", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Reform UK"}
+{"prompt_id": "cat1_1451", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Jacks"}
+{"prompt_id": "cat1_3036", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "2001: A Space Odyssey"}
+{"prompt_id": "cat1_0860", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "New York City"}
+{"prompt_id": "cat1_1528", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Wolf"}
+{"prompt_id": "cat1_3952", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Ronnie Moore"}
+{"prompt_id": "cat1_1318", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Dog"}
+{"prompt_id": "cat1_0655", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Richard Dawson"}
+{"prompt_id": "cat1_1128", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Centaur"}
+{"prompt_id": "cat1_3605", "r_p": 0.09999999999999998, "n_correct": 18, "n": 20, "greedy_answer": "Monopoly"}
+{"prompt_id": "cat1_3860", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Tropic of Cancer"}
+{"prompt_id": "cat1_1787", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Red Rock West"}
+{"prompt_id": "cat1_0881", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Jack the Ripper"}
+{"prompt_id": "cat1_3702", "r_p": 0.6, "n_correct": 8, "n": 20, "greedy_answer": "Royal Air Force"}
+{"prompt_id": "cat1_2876", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Blazing Saddles"}
+{"prompt_id": "cat1_1715", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Killers"}
+{"prompt_id": "cat1_3394", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Fat."}
+{"prompt_id": "cat1_4175", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "\"Thriller\""}
+{"prompt_id": "cat1_1828", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Leeds"}
+{"prompt_id": "cat1_2258", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Flower"}
+{"prompt_id": "cat1_3103", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Del Potro"}
+{"prompt_id": "cat1_4093", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pearl Jam"}
+{"prompt_id": "cat1_0835", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Color Purple"}
+{"prompt_id": "cat1_3419", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Hare"}
+{"prompt_id": "cat1_2268", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Tara"}
+{"prompt_id": "cat1_0702", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "St. Louis Cardinals"}
+{"prompt_id": "cat1_3255", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Fox"}
+{"prompt_id": "cat1_1870", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Wales"}
+{"prompt_id": "cat1_1475", "r_p": 0.4, "n_correct": 12, "n": 20, "greedy_answer": "The Beano"}
+{"prompt_id": "cat1_2594", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Great Gatsby"}
+{"prompt_id": "cat1_1132", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Jack Frost"}
+{"prompt_id": "cat1_2378", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Tony Curtis"}
+{"prompt_id": "cat1_3739", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "1967"}
+{"prompt_id": "cat1_2176", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Lolita"}
+{"prompt_id": "cat1_0728", "r_p": 0.95, "n_correct": 1, "n": 20, "greedy_answer": "Lady Ottoline Morrell"}
+{"prompt_id": "cat1_1183", "r_p": 0.44999999999999996, "n_correct": 11, "n": 20, "greedy_answer": "Geoff  Heapy"}
+{"prompt_id": "cat1_0909", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Red"}
+{"prompt_id": "cat1_3492", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mumbai"}
+{"prompt_id": "cat1_3052", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Kursk"}
+{"prompt_id": "cat1_3848", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "225"}
+{"prompt_id": "cat1_1108", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Adriatic Sea"}
+{"prompt_id": "cat1_2727", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Friends"}
+{"prompt_id": "cat1_1423", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mel Brooks"}
+{"prompt_id": "cat1_1022", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Jamaica"}
+{"prompt_id": "cat1_1320", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Kamikaze"}
+{"prompt_id": "cat1_4061", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Max Planck"}
+{"prompt_id": "cat1_2199", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Frank Miller"}
+{"prompt_id": "cat1_2047", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Cricket"}
+{"prompt_id": "cat1_3123", "r_p": 0.65, "n_correct": 7, "n": 20, "greedy_answer": "2nd"}
+{"prompt_id": "cat1_0840", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "57"}
+{"prompt_id": "cat1_1163", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "North Sea"}
+{"prompt_id": "cat1_2543", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Chester"}
+{"prompt_id": "cat1_1244", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "Cursor"}
+{"prompt_id": "cat1_1869", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Ring-tailed lemur"}
+{"prompt_id": "cat1_2126", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Les Dawson"}
+{"prompt_id": "cat1_3990", "r_p": 0.85, "n_correct": 3, "n": 20, "greedy_answer": "Prince Edward"}
+{"prompt_id": "cat1_4072", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "Bread"}
+{"prompt_id": "cat1_0605", "r_p": 0.4, "n_correct": 12, "n": 20, "greedy_answer": "Richard Marx"}
+{"prompt_id": "cat1_2008", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Highwaymen"}
+{"prompt_id": "cat1_0679", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Michelle Yeoh"}
+{"prompt_id": "cat1_3017", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Gypsy"}
+{"prompt_id": "cat1_1892", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Lizard"}
+{"prompt_id": "cat1_3839", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "George IV"}
+{"prompt_id": "cat1_2162", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Denali"}
+{"prompt_id": "cat1_2127", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Cucumber"}
+{"prompt_id": "cat1_4050", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Jupiter"}
+{"prompt_id": "cat1_3864", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Potato"}
+{"prompt_id": "cat1_4036", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Bronx Mowgli Wentz"}
+{"prompt_id": "cat1_4133", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Nick Faldo"}
+{"prompt_id": "cat1_3819", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Japan"}
+{"prompt_id": "cat1_2182", "r_p": 0.30000000000000004, "n_correct": 14, "n": 20, "greedy_answer": "1 acre"}
+{"prompt_id": "cat1_2311", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Dye"}
+{"prompt_id": "cat1_3745", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Blofeld"}
+{"prompt_id": "cat1_1808", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Snoopy"}
+{"prompt_id": "cat1_2546", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Anthony"}
+{"prompt_id": "cat1_0729", "r_p": 0.6, "n_correct": 8, "n": 20, "greedy_answer": "The Tide Is High"}
+{"prompt_id": "cat1_0770", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Shot by Lee Harvey Oswald."}
+{"prompt_id": "cat1_1500", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Brazil"}
+{"prompt_id": "cat1_1564", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Rugby Union"}
+{"prompt_id": "cat1_2766", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "1879"}
+{"prompt_id": "cat1_3210", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Four score and seven."}
+{"prompt_id": "cat1_3356", "r_p": 0.25, "n_correct": 15, "n": 20, "greedy_answer": "Gunwale"}
+{"prompt_id": "cat1_2015", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Grapes of Wrath"}
+{"prompt_id": "cat1_1696", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Richard Curtis"}
+{"prompt_id": "cat1_1861", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "Roshi"}
+{"prompt_id": "cat1_3126", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "+49"}
+{"prompt_id": "cat1_3128", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Buncefield"}
+{"prompt_id": "cat1_1357", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Quentin Blake"}
+{"prompt_id": "cat1_1316", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Belgium"}
+{"prompt_id": "cat1_1075", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Specials"}
+{"prompt_id": "cat1_3181", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Infantas"}
+{"prompt_id": "cat1_2333", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "A type of fish."}
+{"prompt_id": "cat1_1440", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Terry Hall"}
+{"prompt_id": "cat1_2835", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "London"}
+{"prompt_id": "cat1_2385", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Richard Wagner"}
+{"prompt_id": "cat1_4155", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "South Africa"}
+{"prompt_id": "cat1_1775", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Black"}
+{"prompt_id": "cat1_0908", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "The Word"}
+{"prompt_id": "cat1_1837", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Eyass"}
+{"prompt_id": "cat1_1645", "r_p": 0.5, "n_correct": 10, "n": 20, "greedy_answer": "Female skunk"}
+{"prompt_id": "cat1_2551", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Quito"}
+{"prompt_id": "cat1_3011", "r_p": 0.75, "n_correct": 5, "n": 20, "greedy_answer": "France."}
+{"prompt_id": "cat1_3043", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Bigfoot"}
+{"prompt_id": "cat1_3769", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Grimaldi"}
+{"prompt_id": "cat1_1286", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "37"}
+{"prompt_id": "cat1_3634", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Steam locomotive"}
+{"prompt_id": "cat1_3332", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Africa"}
+{"prompt_id": "cat1_3836", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Buckingham Palace"}
+{"prompt_id": "cat1_0797", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "La M\u00f4me Piaf"}
+{"prompt_id": "cat1_2731", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Oliver Mellors"}
+{"prompt_id": "cat1_1151", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "2004"}
+{"prompt_id": "cat1_4164", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Laughing Cavalier"}
+{"prompt_id": "cat1_3088", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Atticus Finch"}
+{"prompt_id": "cat1_1619", "r_p": 0.050000000000000044, "n_correct": 19, "n": 20, "greedy_answer": "Jeans"}
+{"prompt_id": "cat1_2052", "r_p": 0.25, "n_correct": 15, "n": 20, "greedy_answer": "Tap shoe"}
+{"prompt_id": "cat1_2084", "r_p": 0.30000000000000004, "n_correct": 14, "n": 20, "greedy_answer": "Lord Flashheart"}
+{"prompt_id": "cat1_1292", "r_p": 0.85, "n_correct": 3, "n": 20, "greedy_answer": "Jerry Williams"}
+{"prompt_id": "cat1_3957", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "10"}
+{"prompt_id": "cat1_0928", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "When Harry Met Sally..."}
+{"prompt_id": "cat1_0660", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Petula Clark"}
+{"prompt_id": "cat1_2633", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Peaches"}
+{"prompt_id": "cat1_2361", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Samuel"}
+{"prompt_id": "cat1_1363", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Sweating"}
+{"prompt_id": "cat1_3033", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Argo"}
+{"prompt_id": "cat1_2653", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Athena"}
+{"prompt_id": "cat1_3416", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Brussels"}
+{"prompt_id": "cat1_3544", "r_p": 0.85, "n_correct": 3, "n": 20, "greedy_answer": "Salmonellosis"}
+{"prompt_id": "cat1_4135", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Bobby Brown"}
+{"prompt_id": "cat1_1686", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The English Patient"}
+{"prompt_id": "cat1_1807", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Dog"}
+{"prompt_id": "cat1_1950", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Malawi"}
+{"prompt_id": "cat1_3583", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Photography"}
+{"prompt_id": "cat1_1036", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Chronicles of Narnia"}
+{"prompt_id": "cat1_1298", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Eric Bristow"}
+{"prompt_id": "cat1_2779", "r_p": 0.09999999999999998, "n_correct": 18, "n": 20, "greedy_answer": "Sweden"}
+{"prompt_id": "cat1_3734", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mercury"}
+{"prompt_id": "cat1_1934", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Henry IV"}
+{"prompt_id": "cat1_3582", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Gold"}
+{"prompt_id": "cat1_1757", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Tarn"}
+{"prompt_id": "cat1_2136", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "George Washington"}
+{"prompt_id": "cat1_2195", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "A wandering voice."}
+{"prompt_id": "cat1_2377", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Scarborough"}
+{"prompt_id": "cat1_3563", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Trumpet"}
+{"prompt_id": "cat1_2269", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Animals"}
+{"prompt_id": "cat1_0628", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Chimera"}
+{"prompt_id": "cat1_4157", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pet Shop Boys"}
+{"prompt_id": "cat1_2380", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Lyonesse"}
+{"prompt_id": "cat1_0858", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "False"}
+{"prompt_id": "cat1_2776", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "de Havilland Comet 1"}
+{"prompt_id": "cat1_0814", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Leaf"}
+{"prompt_id": "cat1_1936", "r_p": 0.9, "n_correct": 2, "n": 20, "greedy_answer": "Trees"}
+{"prompt_id": "cat1_0954", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pablo Neruda"}
+{"prompt_id": "cat1_1306", "r_p": 0.5, "n_correct": 10, "n": 20, "greedy_answer": "Antelope"}
+{"prompt_id": "cat1_3933", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Paul von Hindenburg"}
+{"prompt_id": "cat1_2686", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ayrton Senna"}
+{"prompt_id": "cat1_3045", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Gaston Leroux"}
+{"prompt_id": "cat1_3638", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "3"}
+{"prompt_id": "cat1_1335", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Baton Rouge"}
+{"prompt_id": "cat1_0794", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "First-past-the-post"}
+{"prompt_id": "cat1_1710", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Karl Marx"}
+{"prompt_id": "cat1_3134", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Prayer shawl"}
+{"prompt_id": "cat1_2692", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Liverpool"}
+{"prompt_id": "cat1_1039", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "True."}
+{"prompt_id": "cat1_1422", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Doctor Who"}
+{"prompt_id": "cat1_3424", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Atom"}
+{"prompt_id": "cat1_2708", "r_p": 0.35, "n_correct": 13, "n": 20, "greedy_answer": "Handley Page"}
+{"prompt_id": "cat1_2390", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Amsterdam"}
+{"prompt_id": "cat1_1561", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Rabbit"}
+{"prompt_id": "cat1_3237", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Smell"}
+{"prompt_id": "cat1_0841", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Cliff Bastin"}
+{"prompt_id": "cat1_1093", "r_p": 0.6, "n_correct": 8, "n": 20, "greedy_answer": "Visayas"}
+{"prompt_id": "cat1_2620", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Body Shop"}
+{"prompt_id": "cat1_1741", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Shopkeeper"}
+{"prompt_id": "cat1_3005", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Stephen King"}
+{"prompt_id": "cat1_1792", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "September"}
+{"prompt_id": "cat1_3936", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Il divo"}
+{"prompt_id": "cat1_0588", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Ross Bagdasarian Sr."}
+{"prompt_id": "cat1_3912", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Nicaragua"}
+{"prompt_id": "cat1_0731", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Columbus"}
+{"prompt_id": "cat1_1772", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Canada"}
+{"prompt_id": "cat1_2550", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Danelaw"}
+{"prompt_id": "cat1_2049", "r_p": 0.9, "n_correct": 2, "n": 20, "greedy_answer": "Jubilee line"}
+{"prompt_id": "cat1_4052", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Arthur Ransome"}
+{"prompt_id": "cat1_2521", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Philippe P\u00e9tain"}
+{"prompt_id": "cat1_1013", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Andrew Jackson"}
+{"prompt_id": "cat1_1959", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Jimmy Carter"}
+{"prompt_id": "cat1_0661", "r_p": 0.25, "n_correct": 15, "n": 20, "greedy_answer": "Kiefer Sutherland"}
+{"prompt_id": "cat1_2938", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Coffee"}
+{"prompt_id": "cat1_1634", "r_p": 0.85, "n_correct": 3, "n": 20, "greedy_answer": "Massachusetts"}
+{"prompt_id": "cat1_3376", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Men's 4x100m relay heats."}
+{"prompt_id": "cat1_3786", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Panhellenion"}
+{"prompt_id": "cat1_3484", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Algebra"}
+{"prompt_id": "cat1_3239", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Shoes"}
+{"prompt_id": "cat1_1406", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "George IV"}
+{"prompt_id": "cat1_2882", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Georges Braque"}
+{"prompt_id": "cat1_3771", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hair"}
+{"prompt_id": "cat1_1534", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Topeka"}
+{"prompt_id": "cat1_1226", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Lithium"}
+{"prompt_id": "cat1_1285", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Elephant"}
+{"prompt_id": "cat1_1386", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "11"}
+{"prompt_id": "cat1_1925", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Richard Nixon"}
+{"prompt_id": "cat1_1155", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Marine One"}
+{"prompt_id": "cat1_0863", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "C, G"}
+{"prompt_id": "cat1_2141", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Shintoism"}
+{"prompt_id": "cat1_3906", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Miss Marple"}
+{"prompt_id": "cat1_1754", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Beatles"}
+{"prompt_id": "cat1_1573", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Poland"}
+{"prompt_id": "cat1_1409", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ecuador"}
+{"prompt_id": "cat1_2664", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Three Men and a Baby"}
+{"prompt_id": "cat1_3599", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Jet streams"}
+{"prompt_id": "cat1_4070", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hummer"}
+{"prompt_id": "cat1_0762", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Earthquake"}
+{"prompt_id": "cat1_0968", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Matthew"}
+{"prompt_id": "cat1_2091", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "King George VI"}
+{"prompt_id": "cat1_3190", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Russia"}
+{"prompt_id": "cat1_4118", "r_p": 0.65, "n_correct": 7, "n": 20, "greedy_answer": "It was the first regularly published newspaper in America."}
+{"prompt_id": "cat1_1895", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "14"}
+{"prompt_id": "cat1_2942", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "John Bercow"}
+{"prompt_id": "cat1_3313", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Angels"}
+{"prompt_id": "cat1_1663", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Katy Perry"}
+{"prompt_id": "cat1_2803", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Neurons"}
+{"prompt_id": "cat1_3973", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Chinese Taipei"}
+{"prompt_id": "cat1_3152", "r_p": 0.7, "n_correct": 6, "n": 20, "greedy_answer": "Arthropods"}
+{"prompt_id": "cat1_2878", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Anthony Albanese"}
+{"prompt_id": "cat1_3862", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Foot."}
+{"prompt_id": "cat1_2883", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Harold Macmillan"}
+{"prompt_id": "cat1_1087", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Earl's Court Exhibition."}
+{"prompt_id": "cat1_1166", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "M IX IX"}
+{"prompt_id": "cat1_0733", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Red Sea"}
+{"prompt_id": "cat1_0785", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Saint Basil's Cathedral"}
+{"prompt_id": "cat1_1724", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "March"}
+{"prompt_id": "cat1_1802", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Stibnite"}
+{"prompt_id": "cat1_0926", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "James Cameron"}
+{"prompt_id": "cat1_3243", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "Perfume."}
+{"prompt_id": "cat1_2523", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Steve McQueen"}
+{"prompt_id": "cat1_1157", "r_p": 0.5, "n_correct": 10, "n": 20, "greedy_answer": "New York City"}
+{"prompt_id": "cat1_3829", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Georges Bizet"}
+{"prompt_id": "cat1_2214", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Saga"}
+{"prompt_id": "cat1_2588", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "False"}
+{"prompt_id": "cat1_2288", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Spades, Hearts, Diamonds, Clubs."}
+{"prompt_id": "cat1_3919", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "To the Manor Born"}
+{"prompt_id": "cat1_3714", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Phil Spector"}
+{"prompt_id": "cat1_3409", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Libretto"}
+{"prompt_id": "cat1_3489", "r_p": 0.5, "n_correct": 10, "n": 20, "greedy_answer": "Hershey's"}
+{"prompt_id": "cat1_1382", "r_p": 0.85, "n_correct": 3, "n": 20, "greedy_answer": "Chesterfield"}
+{"prompt_id": "cat1_3067", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Tarzan"}
+{"prompt_id": "cat1_0730", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Kansas City"}
+{"prompt_id": "cat1_3991", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "All England Lawn Tennis and Croquet Club"}
+{"prompt_id": "cat1_2545", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "David Bowie"}
+{"prompt_id": "cat1_1361", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Vanity Fair"}
+{"prompt_id": "cat1_3597", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Persian"}
+{"prompt_id": "cat1_0867", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Thailand"}
+{"prompt_id": "cat1_3133", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "New Zealand"}
+{"prompt_id": "cat1_1145", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "12"}
+{"prompt_id": "cat1_2196", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Calcium carbonate"}
+{"prompt_id": "cat1_2624", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Ministry of Silly Walks"}
+{"prompt_id": "cat1_1011", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hudson"}
+{"prompt_id": "cat1_0906", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Holiday Inn"}
+{"prompt_id": "cat1_1233", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Rebecca"}
+{"prompt_id": "cat1_1247", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mull"}
+{"prompt_id": "cat1_4066", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Dino"}
+{"prompt_id": "cat1_3412", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ester"}
+{"prompt_id": "cat1_2440", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Misery"}
+{"prompt_id": "cat1_2242", "r_p": 0.09999999999999998, "n_correct": 18, "n": 20, "greedy_answer": "Whisky Galore!"}
+{"prompt_id": "cat1_2518", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Holly"}
+{"prompt_id": "cat1_2722", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Kevin Macdonald"}
+{"prompt_id": "cat1_4101", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Bruce McLaren"}
+{"prompt_id": "cat1_2650", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Technetium"}
+{"prompt_id": "cat1_0892", "r_p": 0.4, "n_correct": 12, "n": 20, "greedy_answer": "Only Fools and Horses"}
+{"prompt_id": "cat1_0912", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Whiskey"}
+{"prompt_id": "cat1_0593", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Man with the Golden Gun"}
+{"prompt_id": "cat1_2889", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Aidan"}
+{"prompt_id": "cat1_2996", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Derwentwater"}
+{"prompt_id": "cat1_2743", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ruby"}
+{"prompt_id": "cat1_2266", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Fleming's left hand rule"}
+{"prompt_id": "cat1_3253", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Ethiopia"}
+{"prompt_id": "cat1_1476", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "San Francisco Peace Treaty"}
+{"prompt_id": "cat1_1937", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Andrew Bonar Law"}
+{"prompt_id": "cat1_1315", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Remus"}
+{"prompt_id": "cat1_1670", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Skirts"}
+{"prompt_id": "cat1_3080", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Johnny Cash"}
+{"prompt_id": "cat1_3116", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Tree-like"}
+{"prompt_id": "cat1_4025", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "R34"}
+{"prompt_id": "cat1_4171", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Auctioneering"}
+{"prompt_id": "cat1_2989", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "The Rocky Horror Show"}
+{"prompt_id": "cat1_3569", "r_p": 0.8, "n_correct": 4, "n": 20, "greedy_answer": "LIBOR"}
+{"prompt_id": "cat1_2007", "r_p": 0.85, "n_correct": 3, "n": 20, "greedy_answer": "Sammy Davis Jr."}
+{"prompt_id": "cat1_4126", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Severn"}
+{"prompt_id": "cat1_1920", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Edward de Vere, 17th Earl of Oxford"}
+{"prompt_id": "cat1_1414", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Mountain Dew"}
+{"prompt_id": "cat1_2517", "r_p": 0.9, "n_correct": 2, "n": 20, "greedy_answer": "Bananarama"}
+{"prompt_id": "cat1_2734", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Corvidae"}
+{"prompt_id": "cat1_1871", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Moscow"}
+{"prompt_id": "cat1_1575", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Augustus"}
+{"prompt_id": "cat1_3863", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Twelve plus one"}
+{"prompt_id": "cat1_4092", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Wildlife refuge and park."}
+{"prompt_id": "cat1_0608", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Highway 61"}
+{"prompt_id": "cat1_2936", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Alien."}
+{"prompt_id": "cat1_3194", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Julian Assange"}
+{"prompt_id": "cat1_2432", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Dorset"}
+{"prompt_id": "cat1_3204", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pig"}
+{"prompt_id": "cat1_0634", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Crow"}
+{"prompt_id": "cat1_2801", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Ricky Gervais"}
+{"prompt_id": "cat1_2499", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Battle of Austerlitz"}
+{"prompt_id": "cat1_2033", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Virginia Plain"}
+{"prompt_id": "cat1_3107", "r_p": 0.6, "n_correct": 8, "n": 20, "greedy_answer": "The Mikado"}
+{"prompt_id": "cat1_2327", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Bender"}
+{"prompt_id": "cat1_1004", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Roger Hunt"}
+{"prompt_id": "cat1_3288", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Clastic sedimentary rock"}
+{"prompt_id": "cat1_1345", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Squash"}
+{"prompt_id": "cat1_2735", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "One Canada Square, London"}
+{"prompt_id": "cat1_3632", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Glycerin"}
+{"prompt_id": "cat1_2744", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Dutch"}
+{"prompt_id": "cat1_3925", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Sleepy Hollow"}
+{"prompt_id": "cat1_2189", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Miss Honey"}
+{"prompt_id": "cat1_2095", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Failure."}
+{"prompt_id": "cat1_2088", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Woodrow Wilson"}
+{"prompt_id": "cat1_2901", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Lord of the Flies"}
+{"prompt_id": "cat1_3611", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Cyanide"}
+{"prompt_id": "cat1_1255", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Banksy"}
+{"prompt_id": "cat1_0619", "r_p": 0.5, "n_correct": 10, "n": 20, "greedy_answer": "Rudolf Hess."}
+{"prompt_id": "cat1_2175", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "In Dreams"}
+{"prompt_id": "cat1_1857", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "15"}
+{"prompt_id": "cat1_2303", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "C.S. Lewis"}
+{"prompt_id": "cat1_2639", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Annie"}
+{"prompt_id": "cat1_1185", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "1982"}
+{"prompt_id": "cat1_3283", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Eastern Mediterranean."}
+{"prompt_id": "cat1_2648", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "India and Pakistan"}
+{"prompt_id": "cat1_3251", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Couscous"}
+{"prompt_id": "cat1_3852", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Australia"}
+{"prompt_id": "cat1_3378", "r_p": 0.09999999999999998, "n_correct": 18, "n": 20, "greedy_answer": "Tesco"}
+{"prompt_id": "cat1_4024", "r_p": 0.6, "n_correct": 8, "n": 20, "greedy_answer": "Anton Bruckner"}
+{"prompt_id": "cat1_3122", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Meatballs"}
+{"prompt_id": "cat1_1968", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Davros"}
+{"prompt_id": "cat1_1344", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Just a CURIAM"}
+{"prompt_id": "cat1_1252", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Argentina"}
+{"prompt_id": "cat1_3526", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Spain"}
+{"prompt_id": "cat1_3818", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "William Bligh"}
+{"prompt_id": "cat1_2281", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Richard Wagner"}
+{"prompt_id": "cat1_4154", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "in the hills"}
+{"prompt_id": "cat1_1517", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Grandson."}
+{"prompt_id": "cat1_0609", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Romania"}
+{"prompt_id": "cat1_2347", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Golden Fleece"}
+{"prompt_id": "cat1_0657", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "A bear."}
+{"prompt_id": "cat1_2173", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ladysmith"}
+{"prompt_id": "cat1_2580", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Costa Brava"}
+{"prompt_id": "cat1_2823", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Antoine Lavoisier"}
+{"prompt_id": "cat1_3768", "r_p": 0.44999999999999996, "n_correct": 11, "n": 20, "greedy_answer": "Jerry Mouse"}
+{"prompt_id": "cat1_3915", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Nirvana"}
+{"prompt_id": "cat1_1369", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "100"}
+{"prompt_id": "cat1_2627", "r_p": 0.65, "n_correct": 7, "n": 20, "greedy_answer": "Hypothalamus"}
+{"prompt_id": "cat1_1354", "r_p": 0.09999999999999998, "n_correct": 18, "n": 20, "greedy_answer": "Geoffrey Chaucer"}
+{"prompt_id": "cat1_2635", "r_p": 0.35, "n_correct": 13, "n": 20, "greedy_answer": "Henry Kelly"}
+{"prompt_id": "cat1_3560", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Crowd"}
+{"prompt_id": "cat1_0595", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Marilyn Monroe"}
+{"prompt_id": "cat1_3790", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Dr. Kenton Cool"}
+{"prompt_id": "cat1_1025", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Duke and Duchess of Sussex"}
+{"prompt_id": "cat1_3324", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Australia"}
+{"prompt_id": "cat1_2767", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Rosemary Brown"}
+{"prompt_id": "cat1_3740", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Tweed"}
+{"prompt_id": "cat1_3999", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Husky"}
+{"prompt_id": "cat1_1636", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mackenzie River"}
+{"prompt_id": "cat1_3225", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Scotland"}
+{"prompt_id": "cat1_2448", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hygrometer"}
+{"prompt_id": "cat1_0597", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Moonwalk"}
+{"prompt_id": "cat1_0712", "r_p": 0.95, "n_correct": 1, "n": 20, "greedy_answer": "Haley"}
+{"prompt_id": "cat1_1119", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Altamont Speedway"}
+{"prompt_id": "cat1_1187", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Manfred von Richthofen"}
+{"prompt_id": "cat1_3589", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "3/5"}
+{"prompt_id": "cat1_2676", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "George Clooney"}
+{"prompt_id": "cat1_2415", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Donald Trump"}
+{"prompt_id": "cat1_2494", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "United States of America"}
+{"prompt_id": "cat1_3135", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "6"}
+{"prompt_id": "cat1_2768", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Algeria"}
+{"prompt_id": "cat1_0707", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Basketball"}
+{"prompt_id": "cat1_1917", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Olympic medals"}
+{"prompt_id": "cat1_3009", "r_p": 0.5, "n_correct": 10, "n": 20, "greedy_answer": "Rigatoni"}
+{"prompt_id": "cat1_1515", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Red."}
+{"prompt_id": "cat1_2124", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Fish"}
+{"prompt_id": "cat1_3000", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Left Book Club"}
+{"prompt_id": "cat1_2359", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pilgrimage."}
+{"prompt_id": "cat1_0649", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Famous Players Film Company"}
+{"prompt_id": "cat1_0921", "r_p": 0.85, "n_correct": 3, "n": 20, "greedy_answer": "McVie"}
+{"prompt_id": "cat1_1397", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Labrador Retriever"}
+{"prompt_id": "cat1_4045", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Velvet Revolution"}
+{"prompt_id": "cat1_1133", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Arthur Ashe"}
+{"prompt_id": "cat1_0632", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Richard Noble"}
+{"prompt_id": "cat1_1207", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Little Snoddington"}
+{"prompt_id": "cat1_0792", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "House of Lords"}
+{"prompt_id": "cat1_3854", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hebrew"}
+{"prompt_id": "cat1_2131", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "\u00a31,000"}
+{"prompt_id": "cat1_4005", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ourselves Alone"}
+{"prompt_id": "cat1_2014", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Brussels"}
+{"prompt_id": "cat1_2759", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Tungsten"}
+{"prompt_id": "cat1_3847", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Piccadilly Line"}
+{"prompt_id": "cat1_0949", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Meg Ryan"}
+{"prompt_id": "cat1_1952", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Ben"}
+{"prompt_id": "cat1_2188", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Jaipur"}
+{"prompt_id": "cat1_3159", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Henkel"}
+{"prompt_id": "cat1_4095", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Banshee"}
+{"prompt_id": "cat1_0953", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Milk"}
+{"prompt_id": "cat1_3820", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Martina Navratilova"}
+{"prompt_id": "cat1_0988", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Big Lebowski"}
+{"prompt_id": "cat1_0636", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "MC Hammer"}
+{"prompt_id": "cat1_2778", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Prince Igor"}
+{"prompt_id": "cat1_2155", "r_p": 0.95, "n_correct": 1, "n": 20, "greedy_answer": "Criterium"}
+{"prompt_id": "cat1_1391", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Barcelona"}
+{"prompt_id": "cat1_1216", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Hunger Games"}
+{"prompt_id": "cat1_3224", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Germany"}
+{"prompt_id": "cat1_3358", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "over"}
+{"prompt_id": "cat1_0907", "r_p": 0.6, "n_correct": 8, "n": 20, "greedy_answer": "Gareth Gates"}
+{"prompt_id": "cat1_4088", "r_p": 0.9, "n_correct": 2, "n": 20, "greedy_answer": "Bacteremia"}
+{"prompt_id": "cat1_3794", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Patrick McGoohan"}
+{"prompt_id": "cat1_1662", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Antonio Vivaldi"}
+{"prompt_id": "cat1_2297", "r_p": 0.35, "n_correct": 13, "n": 20, "greedy_answer": "Fleet River"}
+{"prompt_id": "cat1_2383", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Lancashire"}
+{"prompt_id": "cat1_0711", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Adrianne Palicki"}
+{"prompt_id": "cat1_2168", "r_p": 0.9, "n_correct": 2, "n": 20, "greedy_answer": "Cyclopes."}
+{"prompt_id": "cat1_1927", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Daunt Books"}
+{"prompt_id": "cat1_1839", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Cadillac"}
+{"prompt_id": "cat1_0824", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Great Wall of China"}
+{"prompt_id": "cat1_2108", "r_p": 0.09999999999999998, "n_correct": 18, "n": 20, "greedy_answer": "Pear"}
+{"prompt_id": "cat1_2694", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Period"}
+{"prompt_id": "cat1_3596", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Farthing"}
+{"prompt_id": "cat1_2454", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Tax collector."}
+{"prompt_id": "cat1_2870", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Brixton riots"}
+{"prompt_id": "cat1_1761", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Antelope"}
+{"prompt_id": "cat1_3349", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Restless legs syndrome"}
+{"prompt_id": "cat1_4060", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Cavalieri"}
+{"prompt_id": "cat1_3972", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hogmanay"}
+{"prompt_id": "cat1_2547", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "dunny"}
+{"prompt_id": "cat1_3742", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "9"}
+{"prompt_id": "cat1_3682", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Typhoid fever"}
+{"prompt_id": "cat1_2710", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Seven Year Itch"}
+{"prompt_id": "cat1_2462", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Islam"}
+{"prompt_id": "cat1_3474", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "365.25"}
+{"prompt_id": "cat1_3967", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Jules Verne"}
+{"prompt_id": "cat1_3302", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Basque independence."}
+{"prompt_id": "cat1_3040", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "A pea."}
+{"prompt_id": "cat1_3866", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Topsy-Turvy"}
+{"prompt_id": "cat1_0904", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pyrotechnics"}
+{"prompt_id": "cat1_2716", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Chris Columbus"}
+{"prompt_id": "cat1_4017", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Austria"}
+{"prompt_id": "cat1_1090", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Steve McGarrett"}
+{"prompt_id": "cat1_2213", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ohio"}
+{"prompt_id": "cat1_1652", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Plainsman"}
+{"prompt_id": "cat1_2277", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pluto"}
+{"prompt_id": "cat1_1498", "r_p": 0.35, "n_correct": 13, "n": 20, "greedy_answer": "Herbert Hoover"}
+{"prompt_id": "cat1_4089", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "P.T. Barnum"}
+{"prompt_id": "cat1_0600", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Kilimanjaro"}
+{"prompt_id": "cat1_0656", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "That's my friend."}
+{"prompt_id": "cat1_3486", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ballon d'Or"}
+{"prompt_id": "cat1_1840", "r_p": 0.65, "n_correct": 7, "n": 20, "greedy_answer": "Kate Moss"}
+{"prompt_id": "cat1_4107", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Horsehead Nebula"}
+{"prompt_id": "cat1_2979", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mansfield Park"}
+{"prompt_id": "cat1_1505", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Poland"}
+{"prompt_id": "cat1_3178", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Marcel Marceau"}
+{"prompt_id": "cat1_3196", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Sven-G\u00f6ran Eriksson"}
+{"prompt_id": "cat1_0787", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Third Crusade"}
+{"prompt_id": "cat1_2582", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Hemimerus protuberans"}
+{"prompt_id": "cat1_3070", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "John"}
+{"prompt_id": "cat1_2004", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "6"}
+{"prompt_id": "cat1_3998", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Rio Grande"}
+{"prompt_id": "cat1_3321", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Paul C\u00e9zanne"}
+{"prompt_id": "cat1_3743", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Sugarloaf Mountain"}
+{"prompt_id": "cat1_4001", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Inflation."}
+{"prompt_id": "cat1_3348", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Obesity"}
+{"prompt_id": "cat1_4137", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Dakar, Senegal."}
+{"prompt_id": "cat1_2956", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pinocchio"}
+{"prompt_id": "cat1_2184", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Gargantua"}
+{"prompt_id": "cat1_2947", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "W. W. Jacobs"}
+{"prompt_id": "cat1_2207", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Steve Martin"}
+{"prompt_id": "cat1_2477", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Battle of Agincourt"}
+{"prompt_id": "cat1_3177", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "India"}
+{"prompt_id": "cat1_3608", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Different levels or realms."}
+{"prompt_id": "cat1_3767", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Val\u00e9ry Giscard d'Estaing"}
+{"prompt_id": "cat1_2941", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Lungs"}
+{"prompt_id": "cat1_2619", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mercury"}
+{"prompt_id": "cat1_3828", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Fairy."}
+{"prompt_id": "cat1_1017", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Colombia"}
+{"prompt_id": "cat1_3686", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Blonde"}
+{"prompt_id": "cat1_1388", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Lamb"}
+{"prompt_id": "cat1_2249", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Yellow"}
+{"prompt_id": "cat1_3086", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mau Mau"}
+{"prompt_id": "cat1_0618", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Dentistry"}
+{"prompt_id": "cat1_3317", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "John Peel"}
+{"prompt_id": "cat1_3411", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "France"}
+{"prompt_id": "cat1_2649", "r_p": 0.09999999999999998, "n_correct": 18, "n": 20, "greedy_answer": "Hong Kong"}
+{"prompt_id": "cat1_3987", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Emma Hamilton"}
+{"prompt_id": "cat1_1739", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Wasps"}
+{"prompt_id": "cat1_3108", "r_p": 0.9, "n_correct": 2, "n": 20, "greedy_answer": "His fleet."}
+{"prompt_id": "cat1_2328", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Goose"}
+{"prompt_id": "cat1_3465", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "DEFCON"}
+{"prompt_id": "cat1_4167", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Peter Sellers"}
+{"prompt_id": "cat1_2245", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Van Diemen's Land"}
+{"prompt_id": "cat1_2264", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Knight's Tale"}
+{"prompt_id": "cat1_2509", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Alan Ladd"}
+{"prompt_id": "cat1_3365", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Lead"}
+{"prompt_id": "cat1_2600", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "3-1"}
+{"prompt_id": "cat1_0611", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Fiddler on the Roof"}
+{"prompt_id": "cat1_0847", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Denali National Park and Preserve"}
+{"prompt_id": "cat1_3459", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hindi"}
+{"prompt_id": "cat1_3643", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Endurance"}
+{"prompt_id": "cat1_1125", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "\"Rich Man's World\""}
+{"prompt_id": "cat1_2916", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pramst"}
+{"prompt_id": "cat1_1312", "r_p": 0.44999999999999996, "n_correct": 11, "n": 20, "greedy_answer": "Scotland"}
+{"prompt_id": "cat1_2993", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Christine Keeler"}
+{"prompt_id": "cat1_3161", "r_p": 0.09999999999999998, "n_correct": 18, "n": 20, "greedy_answer": "Cooking."}
+{"prompt_id": "cat1_0854", "r_p": 0.95, "n_correct": 1, "n": 20, "greedy_answer": "Victoria line"}
+{"prompt_id": "cat1_2279", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Oil."}
+{"prompt_id": "cat1_4115", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Winnipeg"}
+{"prompt_id": "cat1_1689", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Saddam Hussein"}
+{"prompt_id": "cat1_1002", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "95"}
+{"prompt_id": "cat1_0683", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Gene Kelly"}
+{"prompt_id": "cat1_0959", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "North Korea"}
+{"prompt_id": "cat1_1945", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pig"}
+{"prompt_id": "cat1_2732", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Giglio"}
+{"prompt_id": "cat1_1743", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Thomas Chippendale"}
+{"prompt_id": "cat1_3219", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Alcohol"}
+{"prompt_id": "cat1_3500", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "Sett"}
+{"prompt_id": "cat1_3664", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "40"}
+{"prompt_id": "cat1_2113", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Barack Obama"}
+{"prompt_id": "cat1_1323", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Danish"}
+{"prompt_id": "cat1_1786", "r_p": 0.7, "n_correct": 6, "n": 20, "greedy_answer": "St. Moritz"}
+{"prompt_id": "cat1_1190", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Albatross"}
+{"prompt_id": "cat1_2002", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Argentina"}
+{"prompt_id": "cat1_2452", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Rob Lowe"}
+{"prompt_id": "cat1_2254", "r_p": 0.25, "n_correct": 15, "n": 20, "greedy_answer": "Phil Daniels"}
+{"prompt_id": "cat1_2556", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Apprentice"}
+{"prompt_id": "cat1_0930", "r_p": 0.4, "n_correct": 12, "n": 20, "greedy_answer": "vinaigre"}
+{"prompt_id": "cat1_2565", "r_p": 0.050000000000000044, "n_correct": 19, "n": 20, "greedy_answer": "Stilwell"}
+{"prompt_id": "cat1_2132", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "South Korea"}
+{"prompt_id": "cat1_1849", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "Manchester"}
+{"prompt_id": "cat1_1594", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "100-1"}
+{"prompt_id": "cat1_2019", "r_p": 0.09999999999999998, "n_correct": 18, "n": 20, "greedy_answer": "Tangier"}
+{"prompt_id": "cat1_1412", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Alfred, Lord Tennyson"}
+{"prompt_id": "cat1_1186", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Irish Red Setter"}
+{"prompt_id": "cat1_1581", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "April"}
+{"prompt_id": "cat1_3127", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Fibonacci"}
+{"prompt_id": "cat1_3320", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Five"}
+{"prompt_id": "cat1_2574", "r_p": 0.85, "n_correct": 3, "n": 20, "greedy_answer": "The Duchy of Schleswig and the Duchy of Holstein."}
+{"prompt_id": "cat1_0952", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Frog"}
+{"prompt_id": "cat1_0669", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Massachusetts"}
+{"prompt_id": "cat1_2078", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Professor Matic"}
+{"prompt_id": "cat1_2684", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Edward III"}
+{"prompt_id": "cat1_2419", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "River Orwell"}
+{"prompt_id": "cat1_3600", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Albert Square"}
+{"prompt_id": "cat1_4016", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Rome"}
+{"prompt_id": "cat1_0615", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Joshua"}
+{"prompt_id": "cat1_1431", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Al Pacino"}
+{"prompt_id": "cat1_4151", "r_p": 0.44999999999999996, "n_correct": 11, "n": 20, "greedy_answer": "Helen Hanff"}
+{"prompt_id": "cat1_3034", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "A cylindrical clay oven."}
+{"prompt_id": "cat1_1736", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Phyllis."}
+{"prompt_id": "cat1_0900", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Dog"}
+{"prompt_id": "cat1_2030", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "2"}
+{"prompt_id": "cat1_2656", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Carl Sagan"}
+{"prompt_id": "cat1_2226", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Bridge"}
+{"prompt_id": "cat1_0784", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Bulgarian"}
+{"prompt_id": "cat1_0758", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Ronald Reagan"}
+{"prompt_id": "cat1_2888", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Madagascar"}
+{"prompt_id": "cat1_1935", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Cambridge"}
+{"prompt_id": "cat1_2430", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Sarajevo"}
+{"prompt_id": "cat1_3293", "r_p": 0.44999999999999996, "n_correct": 11, "n": 20, "greedy_answer": "Las Vegas"}
+{"prompt_id": "cat1_0940", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "A Christmas Carol"}
+{"prompt_id": "cat1_0924", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Istanbul"}
+{"prompt_id": "cat1_2659", "r_p": 0.55, "n_correct": 9, "n": 20, "greedy_answer": "Dundeenian"}
+{"prompt_id": "cat1_2286", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Corinth Canal"}
+{"prompt_id": "cat1_2840", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The North York Moors National Park"}
+{"prompt_id": "cat1_1324", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Italy"}
+{"prompt_id": "cat1_3641", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Atlantic Ocean"}
+{"prompt_id": "cat1_1473", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Scapula"}
+{"prompt_id": "cat1_3971", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Japan"}
+{"prompt_id": "cat1_2875", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ringway Airport"}
+{"prompt_id": "cat1_3432", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Highball, scoot"}
+{"prompt_id": "cat1_4054", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The electric chair."}
+{"prompt_id": "cat1_2671", "r_p": 0.85, "n_correct": 3, "n": 20, "greedy_answer": "Lostock"}
+{"prompt_id": "cat1_0623", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "\"Escape (The Pi\u00f1a Colada Song)\""}
+{"prompt_id": "cat1_1442", "r_p": 0.25, "n_correct": 15, "n": 20, "greedy_answer": "Chile and Argentina."}
+{"prompt_id": "cat1_2227", "r_p": 0.55, "n_correct": 9, "n": 20, "greedy_answer": "The Falkland Islands"}
+{"prompt_id": "cat1_3975", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Elsinore"}
+{"prompt_id": "cat1_3963", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The new sewer system."}
+{"prompt_id": "cat1_1385", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "88"}
+{"prompt_id": "cat1_1734", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Left"}
+{"prompt_id": "cat1_2283", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Naples"}
+{"prompt_id": "cat1_1778", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "George V"}
+{"prompt_id": "cat1_0676", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Jonathan Demme"}
+{"prompt_id": "cat1_3645", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Human motivation."}
+{"prompt_id": "cat1_1466", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Double Indemnity"}
+{"prompt_id": "cat1_3542", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Black Rod."}
+{"prompt_id": "cat1_3840", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Orange."}
+{"prompt_id": "cat1_3873", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Cuban Missile Crisis"}
+{"prompt_id": "cat1_1018", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Phil Spector"}
+{"prompt_id": "cat1_1879", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Stratford"}
+{"prompt_id": "cat1_1415", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Moon"}
+{"prompt_id": "cat1_2139", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Button Moon"}
+{"prompt_id": "cat1_4007", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Sakhalin"}
+{"prompt_id": "cat1_2872", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "River Bann"}
+{"prompt_id": "cat1_1845", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Submarine"}
+{"prompt_id": "cat1_3602", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Macbeth"}
+{"prompt_id": "cat1_2278", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Lost in Translation"}
+{"prompt_id": "cat1_2640", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Cher"}
+{"prompt_id": "cat1_3872", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Chimera"}
+{"prompt_id": "cat1_1489", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Edvard Munch"}
+{"prompt_id": "cat1_3216", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Copper"}
+{"prompt_id": "cat1_1362", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Dave Lamb"}
+{"prompt_id": "cat1_2702", "r_p": 0.75, "n_correct": 5, "n": 20, "greedy_answer": "The Friars of St Francis of Wycombe were a group of Franciscan friars who were k"}
+{"prompt_id": "cat1_1690", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Black Sheep"}
+{"prompt_id": "cat1_0647", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Bobby Jones"}
+{"prompt_id": "cat1_0806", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ornithology"}
+{"prompt_id": "cat1_3314", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Eat."}
+{"prompt_id": "cat1_2737", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pictures at an Exhibition"}
+{"prompt_id": "cat1_4074", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "The Gordon Bennett Cup"}
+{"prompt_id": "cat1_0819", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Gluteus maximus"}
+{"prompt_id": "cat1_4084", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Surrealism"}
+{"prompt_id": "cat1_2273", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Whittington"}
+{"prompt_id": "cat1_1140", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "John Denver"}
+{"prompt_id": "cat1_3765", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "James Bond"}
+{"prompt_id": "cat1_1745", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Radiohead"}
+{"prompt_id": "cat1_1902", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Vietnam War"}
+{"prompt_id": "cat1_0987", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Castor"}
+{"prompt_id": "cat1_2536", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Femoral artery"}
+{"prompt_id": "cat1_1142", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Bugsy Siegel"}
+{"prompt_id": "cat1_2191", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Between the ribs."}
+{"prompt_id": "cat1_2301", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Rabbits"}
+{"prompt_id": "cat1_3517", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Catalyst"}
+{"prompt_id": "cat1_4053", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Albedo"}
+{"prompt_id": "cat1_3050", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "George Orwell"}
+{"prompt_id": "cat1_0934", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Dam"}
+{"prompt_id": "cat1_0965", "r_p": 0.35, "n_correct": 13, "n": 20, "greedy_answer": "Robocop"}
+{"prompt_id": "cat1_2313", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Orion"}
+{"prompt_id": "cat1_1855", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Cheese"}
+{"prompt_id": "cat1_3565", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Greece's potential exit from the Eurozone."}
+{"prompt_id": "cat1_1677", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Oasis"}
+{"prompt_id": "cat1_2234", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Secretary"}
+{"prompt_id": "cat1_3141", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "40,075"}
+{"prompt_id": "cat1_4163", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Boston Legal"}
+{"prompt_id": "cat1_1350", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Joe Orton"}
+{"prompt_id": "cat1_1256", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Charles II"}
+{"prompt_id": "cat1_2623", "r_p": 0.44999999999999996, "n_correct": 11, "n": 20, "greedy_answer": "Snails"}
+{"prompt_id": "cat1_0955", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Albert Einstein"}
+{"prompt_id": "cat1_1139", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Christopher Columbus"}
+{"prompt_id": "cat1_3077", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "De jure"}
+{"prompt_id": "cat1_2428", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "The Blackheart."}
+{"prompt_id": "cat1_1994", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Javelin throw"}
+{"prompt_id": "cat1_1066", "r_p": 0.95, "n_correct": 1, "n": 20, "greedy_answer": "Rumpy"}
+{"prompt_id": "cat1_2192", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Leo Tolstoy"}
+{"prompt_id": "cat1_3549", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Surrounded."}
+{"prompt_id": "cat1_2954", "r_p": 0.050000000000000044, "n_correct": 19, "n": 20, "greedy_answer": "Mullion"}
+{"prompt_id": "cat1_3100", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "In God We Trust"}
+{"prompt_id": "cat1_3981", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "2.4 to 2.6 meters."}
+{"prompt_id": "cat1_1737", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Bodge"}
+{"prompt_id": "cat1_0624", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Vancouver"}
+{"prompt_id": "cat1_2296", "r_p": 0.8, "n_correct": 4, "n": 20, "greedy_answer": "The Human League"}
+{"prompt_id": "cat1_3833", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Westminster Abbey"}
+{"prompt_id": "cat1_3588", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "All-inclusive resorts"}
+{"prompt_id": "cat1_0682", "r_p": 0.65, "n_correct": 7, "n": 20, "greedy_answer": "James Stewart"}
+{"prompt_id": "cat1_1311", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Vision"}
+{"prompt_id": "cat1_2752", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Tommy Roe"}
+{"prompt_id": "cat1_0778", "r_p": 0.75, "n_correct": 5, "n": 20, "greedy_answer": "Germany"}
+{"prompt_id": "cat1_2331", "r_p": 0.85, "n_correct": 3, "n": 20, "greedy_answer": "Mushroom cloud."}
+{"prompt_id": "cat1_2483", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Altruism"}
+{"prompt_id": "cat1_3352", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Jesse Owens"}
+{"prompt_id": "cat1_4002", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Soccer"}
+{"prompt_id": "cat1_2679", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Stan Wawrinka"}
+{"prompt_id": "cat1_2687", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Ed White"}
+{"prompt_id": "cat1_1659", "r_p": 0.15000000000000002, "n_correct": 17, "n": 20, "greedy_answer": "Red"}
+{"prompt_id": "cat1_1667", "r_p": 0.95, "n_correct": 1, "n": 20, "greedy_answer": "Only Fools and Horses"}
+{"prompt_id": "cat1_2975", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Northern Territory"}
+{"prompt_id": "cat1_1068", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Hancock's Half Hour"}
+{"prompt_id": "cat1_2554", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hanoi Jane"}
+{"prompt_id": "cat1_3408", "r_p": 0.44999999999999996, "n_correct": 11, "n": 20, "greedy_answer": "Last Post"}
+{"prompt_id": "cat1_1624", "r_p": 0.35, "n_correct": 13, "n": 20, "greedy_answer": "Barbara Cartland"}
+{"prompt_id": "cat1_1751", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Diogenes of Sinope"}
+{"prompt_id": "cat1_1010", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Spandau Ballet"}
+{"prompt_id": "cat1_1015", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Humphrey Bogart"}
+{"prompt_id": "cat1_0753", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pittsburgh"}
+{"prompt_id": "cat1_2555", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Magical Mystery Tour"}
+{"prompt_id": "cat1_2444", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Salem witch trials."}
+{"prompt_id": "cat1_1852", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Nick Grimshaw"}
+{"prompt_id": "cat1_1438", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Barbarella"}
+{"prompt_id": "cat1_1753", "r_p": 0.95, "n_correct": 1, "n": 20, "greedy_answer": "Texas"}
+{"prompt_id": "cat1_1149", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "A pieman."}
+{"prompt_id": "cat1_0633", "r_p": 0.19999999999999996, "n_correct": 16, "n": 20, "greedy_answer": "Virginia"}
+{"prompt_id": "cat1_3811", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "William Ward"}
+{"prompt_id": "cat1_3388", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Latin"}
+{"prompt_id": "cat1_0607", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Pink Floyd"}
+{"prompt_id": "cat1_3410", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hyacinthus"}
+{"prompt_id": "cat1_1695", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Center fin"}
+{"prompt_id": "cat1_2120", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Muhammad Ali"}
+{"prompt_id": "cat1_1364", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Lace"}
+{"prompt_id": "cat1_3262", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Robert the Bruce"}
+{"prompt_id": "cat1_3899", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "British armies"}
+{"prompt_id": "cat1_1592", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Angel Falls"}
+{"prompt_id": "cat1_4145", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Stan Laurel"}
+{"prompt_id": "cat1_1115", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Skye"}
+{"prompt_id": "cat1_4127", "r_p": 0.09999999999999998, "n_correct": 18, "n": 20, "greedy_answer": "A water clock."}
+{"prompt_id": "cat1_1522", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "John Huston"}
+{"prompt_id": "cat1_3315", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "False"}
+{"prompt_id": "cat1_4064", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Secretary of State"}
+{"prompt_id": "cat1_1910", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Carrie"}
+{"prompt_id": "cat1_1156", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Anne Boleyn"}
+{"prompt_id": "cat1_1625", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Margot"}
+{"prompt_id": "cat1_3367", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Haiti"}
+{"prompt_id": "cat1_3869", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Honshu"}
+{"prompt_id": "cat1_3723", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Piano"}
+{"prompt_id": "cat1_3695", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "John Northampton"}
+{"prompt_id": "cat1_1321", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Peter Paul Rubens"}
+{"prompt_id": "cat1_3939", "r_p": 0.95, "n_correct": 1, "n": 20, "greedy_answer": "Maine"}
+{"prompt_id": "cat1_3712", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Mason Williams"}
+{"prompt_id": "cat1_2772", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Revelation"}
+{"prompt_id": "cat1_2205", "r_p": 0.75, "n_correct": 5, "n": 20, "greedy_answer": "Gogglebox"}
+{"prompt_id": "cat1_1116", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Margot Fonteyn"}
+{"prompt_id": "cat1_1999", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Cardiff"}
+{"prompt_id": "cat1_2396", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "The Kinks"}
+{"prompt_id": "cat1_0708", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Lightning McQueen"}
+{"prompt_id": "cat1_0640", "r_p": 0.4, "n_correct": 12, "n": 20, "greedy_answer": "Upside Down"}
+{"prompt_id": "cat1_1377", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "California"}
+{"prompt_id": "cat1_2436", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Fleet Street"}
+{"prompt_id": "cat1_2816", "r_p": 0.95, "n_correct": 1, "n": 20, "greedy_answer": "Yankee Lady"}
+{"prompt_id": "cat1_3434", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Language translation"}
+{"prompt_id": "cat1_3507", "r_p": 0.30000000000000004, "n_correct": 14, "n": 20, "greedy_answer": "Humps."}
+{"prompt_id": "cat1_1496", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Austria"}
+{"prompt_id": "cat1_2943", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "James Cameron"}
+{"prompt_id": "cat1_2950", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "May"}
+{"prompt_id": "cat1_1040", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "Eddie Arcaro"}
+{"prompt_id": "cat1_2410", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Hannibal Barca"}
+{"prompt_id": "cat1_1314", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Iceland"}
+{"prompt_id": "cat1_4123", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Karl Marx"}
+{"prompt_id": "cat1_2418", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Netherlands"}
+{"prompt_id": "cat1_3922", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Appalachian Mountains"}
+{"prompt_id": "cat1_2135", "r_p": 1.0, "n_correct": 0, "n": 20, "greedy_answer": "7"}
+{"prompt_id": "cat1_3546", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Portugal"}
+{"prompt_id": "cat1_4150", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Rod Stewart"}
+{"prompt_id": "cat1_3633", "r_p": 0.0, "n_correct": 20, "n": 20, "greedy_answer": "Flowers"}

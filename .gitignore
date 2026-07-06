@@ -8,3 +8,4 @@ __pycache__/
 benchmark
 .venv/
 data/stepc_resid_*/
+data/layer_stacks_v2_*/
