@@ -1,0 +1,11 @@
+Copyright (c) 2026 JP Cacioli. All rights reserved.
+
+This repository is the private, pre-registered research record for Paper 2 of
+the Crewther Sampler Programme. No licence or use grant is provided at this
+time. The code and data are not released for use, reproduction, modification,
+or distribution, pending resolution of intellectual-property considerations.
+
+This work builds on the H-Neurons method of Gao, Chen, Xiao, Chen, Liu, and Sun
+(https://github.com/thunlp/H-Neurons). The implementation in this repository is
+independent. No files authored in that repository are included here; any future
+inclusion would retain its original authors' rights.
