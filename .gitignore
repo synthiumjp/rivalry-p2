@@ -9,3 +9,5 @@ benchmark
 .venv/
 data/stepc_resid_*/
 data/layer_stacks_v2_*/
+data/tuned_lens_direct_*/lens.pt
+data/lens_corpus_wikitext.txt
