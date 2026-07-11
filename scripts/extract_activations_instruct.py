@@ -2,28 +2,37 @@
 extract_activations_instruct.py
 
 Instruct-model CETT activation extractor. Adapted from extract_activations_base.py.
-CETT core (CETTManager, norm math, mean-over-answer-tokens aggregation) is
-UNCHANGED. Only the prompt-boundary reconstruction differs:
+CETT core (CETTManager, norm math, per-position CETT) is UNCHANGED. The prompt-
+boundary reconstruction differs from base:
 
   base:     full_text = question + " " + response ; output_start = len(encode(question))
-  instruct: full_text = apply_chat_template([{user: question}], add_generation_prompt=True) + response
-            tokenized with add_special_tokens=False (template already emits BOS)
-            output_start = token length of the templated prompt alone
+  instruct: full_text = apply_chat_template([{user: question}], add_generation_prompt=True)
+            + response, tokenized add_special_tokens=False (template emits BOS),
+            output_start = token length of the templated prompt alone.
 
-Answer span is located by string match within [output_start:full_len], robust to
-BPE re-merge at the boundary (same span-finder as base).
+Aggregation (--method):
+  mean : mean CETT over the span. LENGTH-CONFOUNDED when span length correlates
+         with the label (it does: hallucinated answers are ~60% longer). Do NOT
+         use for the detector; kept for reference/parity only.
+  max  : max over the span. Same length caveat.
+  last : CETT at the single LAST answer-token position. No length signal.
+         This is the detector feature (deviation from the reference span-mean,
+         justified: reference true/false span lengths are 2.4 vs 11.0 tokens,
+         so span-mean confounds answer length with hallucination).
+
+With --locations output, selected = cett_full[:, output_start:output_end, :],
+so --method last takes cett_full[:, output_end-1, :], the last answer token
+(under answer_span-truncated responses the output region ends at the answer).
 
 Usage:
     python scripts/extract_activations_instruct.py \
         --model_path mistralai/Mistral-7B-Instruct-v0.3 \
         --input_path data/answer_tokens_mistral_v2.jsonl \
         --train_ids_path data/train_qids_mistral_v2.json \
-        --output_root data/activations_mistral_v2 \
-        --locations answer_tokens \
-        --dtype float16 --attn sdpa
+        --output_root data/activations_mistral_v2_last \
+        --locations output --method last --dtype float16 --attn sdpa
 
-    # Gemma-2 requires bf16 + eager:
-    #   --dtype bfloat16 --attn eager
+    # Gemma-2: --dtype bfloat16 --attn eager
 """
 
 import os
@@ -45,9 +54,9 @@ def parse_args():
     p.add_argument("--train_ids_path", type=str, required=True,
                    help="train_qids JSON with 't' and 'f' id lists")
     p.add_argument("--output_root", type=str, required=True)
-    p.add_argument("--locations", nargs="+", default=["answer_tokens"],
+    p.add_argument("--locations", nargs="+", default=["output"],
                    choices=["input", "output", "answer_tokens", "all_except_answer_tokens"])
-    p.add_argument("--method", type=str, choices=["mean", "max"], default="mean")
+    p.add_argument("--method", type=str, choices=["mean", "max", "last"], default="last")
     p.add_argument("--use_mag", action="store_true", default=True)
     p.add_argument("--use_abs", action="store_true", default=True)
     p.add_argument("--dtype", type=str, choices=["float16", "bfloat16"], default="float16")
@@ -56,7 +65,11 @@ def parse_args():
 
 
 class CETTManager:
-    """UNCHANGED from extract_activations_base.py. CETT via hooks on down_proj."""
+    """UNCHANGED from extract_activations_base.py. CETT via hooks on down_proj.
+
+    cett = (|down_proj_input| * ||W_down column||) / (||down_proj_output|| + eps),
+    per neuron, per token. Shape returned: [layers, tokens, neurons].
+    """
 
     def __init__(self, model):
         self.model = model
@@ -110,8 +123,8 @@ def get_region_indices_instruct(
     answer_tokens: List[str],
 ) -> Dict[str, Optional[Tuple[int, int]]]:
     """Instruct boundary: output region begins at prompt_len (templated prompt
-    length, tokenized add_special_tokens=False). Answer span found by string
-    match within the output region, same normalisation as base.
+    length, tokenized add_special_tokens=False). Answer span (if requested) is
+    found by string match within the output region, same normalisation as base.
     """
     full_len = full_ids.shape[1]
     output_start = prompt_len
@@ -203,7 +216,7 @@ def main():
         )
 
         regions = get_region_indices_instruct(
-            full_ids, prompt_len, tokenizer, data["answer_tokens"]
+            full_ids, prompt_len, tokenizer, data.get("answer_tokens")
         )
 
         item_extracted = False
@@ -223,10 +236,19 @@ def main():
 
             if selected is None or selected.shape[1] == 0:
                 continue
+
+            # Aggregate across token positions.
+            #   mean / max : over the span (LENGTH-CONFOUNDED; f answers ~60%
+            #                longer, so do not use for the detector)
+            #   last       : single last-answer-token position, no length signal
             if args.method == "mean":
                 final_act = selected.mean(dim=1)
-            else:
+            elif args.method == "max":
                 final_act, _ = selected.max(dim=1)
+            elif args.method == "last":
+                final_act = selected[:, -1, :]
+            else:
+                raise ValueError(f"unknown method {args.method}")
 
             np.save(os.path.join(args.output_root, loc, f"act_{qid}.npy"),
                     final_act.cpu().float().numpy())
