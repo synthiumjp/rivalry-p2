@@ -216,5 +216,18 @@ def main():
     Path(args.output).write_text(json.dumps(out, indent=2))
     print(json.dumps(out, indent=2))
 
+    # per-prompt rows (for H4 stage-coupling and any prompt-level downstream use)
+    rows_path = str(args.output).replace("commitment_v2_", "commitment_rows_").replace(".json", ".jsonl")
+    with open(rows_path, "w") as f:
+        for r in rows:
+            f.write(json.dumps({
+                "prompt_id": r["prompt_id"], "correct": r.get("correct"),
+                "L_star": r.get("L_star"), "L_k1": r.get("L_k1"), "L_k3": r.get("L_k3"),
+                "commit_lens": r.get("commit_lens"),
+                "unmeasurable": r.get("unmeasurable", False),
+                "unstable": r.get("unstable", False),
+                "no_commit": r.get("no_commit", False)}) + "\n")
+    print(f"wrote per-prompt rows -> {rows_path}")
+
 if __name__ == "__main__":
     main()
