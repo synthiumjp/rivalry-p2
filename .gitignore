@@ -1,13 +1,15 @@
-models/
+# large / regenerable data
+data/*.jsonl
 data/activations_*/
-data/layer_stacks_*/
-data/*.parquet
-__pycache__/
-*.pyc
-*.pyy
-benchmark
-.venv/
-data/stepc_resid_*/
-data/layer_stacks_v2_*/
-data/tuned_lens_direct_*/lens.pt
-data/lens_corpus_wikitext.txt
+data/*.npy
+models/*.pkl
+data/hneuron_activations_*.jsonl
+data/se_*.jsonl
+data/clusters_*.jsonl
+data/responses_*.jsonl
+figures/
+# but DO track small result + provenance json
+!data/train_qids_*_v2.json
+!data/layer_dynamics_v2_*.json
+!data/hneuron_correspondence_v2_*.json
+!data/cat1_*_prompt_ids.json
