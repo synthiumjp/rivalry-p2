@@ -1,0 +1,38 @@
+{
+  "models": [
+    {
+      "tag": "mistral_instruct",
+      "rho": 0.08573208036440355,
+      "p": 0.04853273280103146,
+      "n": 530,
+      "L_step0": 31,
+      "clears": false
+    },
+    {
+      "tag": "qwen_instruct",
+      "rho": 0.09522031291025056,
+      "p": 0.025541705829348525,
+      "n": 550,
+      "L_step0": 21,
+      "clears": false
+    },
+    {
+      "tag": "llama_instruct",
+      "rho": -0.09432984898167512,
+      "p": 0.016812700858021473,
+      "n": 642,
+      "L_step0": 31,
+      "clears": false
+    },
+    {
+      "tag": "gemma_instruct",
+      "rho": 0.07776060603670558,
+      "p": 0.03359014486374804,
+      "n": 747,
+      "L_step0": 40,
+      "clears": false
+    }
+  ],
+  "n_clear": 0,
+  "n_models": 4
+}

@@ -26,3 +26,4 @@ data/*.json
 !data/cat1_*_prompt_ids.json
 !data/h5_5b_*.json
 !data/h6_*.json
+!data/h4_stage_coupling_dev.json
