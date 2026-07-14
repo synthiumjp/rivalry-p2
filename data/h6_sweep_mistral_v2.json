@@ -1,0 +1,725 @@
+{
+  "summary": {
+    "n_candidate": 30,
+    "n_usable": 20,
+    "sweep_layers": [
+      10,
+      15,
+      19,
+      25,
+      29,
+      31
+    ],
+    "correction_rate_by_layer": {
+      "10": 0.5,
+      "15": 0.45,
+      "19": 0.5,
+      "25": 0.35,
+      "29": 0.5,
+      "31": 0.5
+    },
+    "note": "H6 Alt-A bifurcation layer sweep, dev rehearsal. Monotonic rise with depth = depth artifact; spike at L* above neighbours = regime-specific. Confirmatory is hold-out."
+  },
+  "per_prompt": {
+    "cat1_0618": {
+      "usable": false,
+      "reason": "no clean+corrupt branch pair found"
+    },
+    "cat1_0624": {
+      "usable": true,
+      "clean_first": 24018,
+      "corrupt_first": 1183,
+      "clean_text": "Vancouver, British Columbia",
+      "corrupt_text": "The Lion's Gate Bridge is located in British Columbia, Canada.",
+      "patched": {
+        "10": {
+          "corrected": false,
+          "text": "The, British Columbia"
+        },
+        "15": {
+          "corrected": false,
+          "text": "The, British Columbia."
+        },
+        "19": {
+          "corrected": false,
+          "text": "The, British Columbia."
+        },
+        "25": {
+          "corrected": false,
+          "text": "The, Lion's Gate Bridge, is located in British Columbia, Canada."
+        },
+        "29": {
+          "corrected": false,
+          "text": "The, Lion's Gate Bridge, is located in, British Columbia, Canada."
+        },
+        "31": {
+          "corrected": false,
+          "text": "The, Lion's Gate Bridge, is located in, British Columbia, Canada."
+        }
+      }
+    },
+    "cat1_0636": {
+      "usable": true,
+      "clean_first": 17184,
+      "corrupt_first": 6093,
+      "clean_text": "MC Hammer",
+      "corrupt_text": "Macaulay Culkin (as a musical group, The Pizza Underground)",
+      "patched": {
+        "10": {
+          "corrected": true,
+          "text": "Mac Hammer (aka Stanley Kirk Burrell)"
+        },
+        "15": {
+          "corrected": true,
+          "text": "Mac Hammer (aka Stanley Kirk Burrell)"
+        },
+        "19": {
+          "corrected": true,
+          "text": "Mac Hammer (aka Stanley Kirk Burrell)"
+        },
+        "25": {
+          "corrected": false,
+          "text": "Mac Hammer (Gerald Levert)"
+        },
+        "29": {
+          "corrected": false,
+          "text": "Mac Hammer (aka Bernard Jeffrey McCullough)"
+        },
+        "31": {
+          "corrected": false,
+          "text": "Mac Hammer (aka Bernard Jeffrey McCullough)"
+        }
+      }
+    },
+    "cat1_0661": {
+      "usable": true,
+      "clean_first": 1292,
+      "corrupt_first": 6667,
+      "clean_text": "Kiefer Sutherland was born first.",
+      "corrupt_text": "Christian Slater was born first.",
+      "patched": {
+        "10": {
+          "corrected": false,
+          "text": "Christianiefer Slater"
+        },
+        "15": {
+          "corrected": false,
+          "text": "Christianie Slater was born first."
+        },
+        "19": {
+          "corrected": true,
+          "text": "Christianie Slater was born first. (His birth name is Michael Christian Slater, but he is commonly known as Christian Sl"
+        },
+        "25": {
+          "corrected": true,
+          "text": "Christianie Slater was born first. (His birth name is Michael Christian Slater, but he is commonly known as Christian Sl"
+        },
+        "29": {
+          "corrected": true,
+          "text": "Christianie Slater was born first. (His birth name is Michael Christian Slater, but he is commonly known as Christian Sl"
+        },
+        "31": {
+          "corrected": true,
+          "text": "Christianie Slater was born first. (His birth name is Michael Christian Slater, but he is commonly known as Christian Sl"
+        }
+      }
+    },
+    "cat1_0679": {
+      "usable": true,
+      "clean_first": 6891,
+      "corrupt_first": 1161,
+      "clean_text": "command: Answer the question \"Which Swedish actress won the Best Supporting Actress Oscar for Murder on the Orient Expre",
+      "corrupt_text": "Lena Headey",
+      "patched": {
+        "10": {
+          "corrected": false,
+          "text": "L: Michelle Williams"
+        },
+        "15": {
+          "corrected": true,
+          "text": "L: Ingrid Bergman for Murder on the Orient Express (1974)"
+        },
+        "19": {
+          "corrected": false,
+          "text": "L: Michelle Williams"
+        },
+        "25": {
+          "corrected": true,
+          "text": "L: Ingrid Bergman"
+        },
+        "29": {
+          "corrected": true,
+          "text": "L: Ingrid Bergman for Murder on the Orient Express (1974)"
+        },
+        "31": {
+          "corrected": true,
+          "text": "L: Ingrid Bergman for Murder on the Orient Express (1974)"
+        }
+      }
+    },
+    "cat1_0683": {
+      "usable": true,
+      "clean_first": 12085,
+      "corrupt_first": 2175,
+      "clean_text": "Fred Astaire",
+      "corrupt_text": "line: Jennifer Jones (for her acting performance)",
+      "patched": {
+        "10": {
+          "corrected": false,
+          "text": "line Astaire"
+        },
+        "15": {
+          "corrected": false,
+          "text": "line Astaire"
+        },
+        "19": {
+          "corrected": false,
+          "text": "line Astaire"
+        },
+        "25": {
+          "corrected": false,
+          "text": "line Astaire"
+        },
+        "29": {
+          "corrected": false,
+          "text": "line Astaire"
+        },
+        "31": {
+          "corrected": false,
+          "text": "line Astaire"
+        }
+      }
+    },
+    "cat1_0753": {
+      "usable": true,
+      "clean_first": 26304,
+      "corrupt_first": 24500,
+      "clean_text": "Pittsburgh, Pennsylvania was named after William Pitt the Elder, a British Prime Minister.",
+      "corrupt_text": "Portland (Maine) was named after William, Earl of Portland, who served as the British Prime Minister from 1783 to 1783.",
+      "patched": {
+        "10": {
+          "corrected": true,
+          "text": "Portland, Pennsylvania (originally) was named after British Prime Minister William Pitt the Elder. However, it was later"
+        },
+        "15": {
+          "corrected": false,
+          "text": "Portland, Pennsylvania (named after William Pitt the Elder, British Prime Minister)"
+        },
+        "19": {
+          "corrected": false,
+          "text": "Portland, Maine"
+        },
+        "25": {
+          "corrected": false,
+          "text": "Portland, Maine"
+        },
+        "29": {
+          "corrected": false,
+          "text": "Portland, Maine (named after William Penn, not a British Prime Minister)"
+        },
+        "31": {
+          "corrected": false,
+          "text": "Portland, Maine (named after William Penn, not a British Prime Minister)"
+        }
+      }
+    },
+    "cat1_0770": {
+      "usable": false,
+      "reason": "no clean+corrupt branch pair found"
+    },
+    "cat1_0778": {
+      "usable": true,
+      "clean_first": 5611,
+      "corrupt_first": 3737,
+      "clean_text": "France",
+      "corrupt_text": "United States",
+      "patched": {
+        "10": {
+          "corrected": false,
+          "text": "United"
+        },
+        "15": {
+          "corrected": false,
+          "text": "United"
+        },
+        "19": {
+          "corrected": false,
+          "text": "United"
+        },
+        "25": {
+          "corrected": false,
+          "text": "United"
+        },
+        "29": {
+          "corrected": false,
+          "text": "United"
+        },
+        "31": {
+          "corrected": false,
+          "text": "United"
+        }
+      }
+    },
+    "cat1_0792": {
+      "usable": true,
+      "clean_first": 7160,
+      "corrupt_first": 18485,
+      "clean_text": "European Parliament (87 seats for UK MEPs, as of 2019)",
+      "corrupt_text": "Scottish Parliament",
+      "patched": {
+        "10": {
+          "corrected": false,
+          "text": "Scottish Parliament (Scotland's devolved legislature) has 87 seats for Members of the Scottish Parliament (MSPs), who se"
+        },
+        "15": {
+          "corrected": false,
+          "text": "Scottish Parliament (87 MEPs, 5-year term)"
+        },
+        "19": {
+          "corrected": false,
+          "text": "Scottish Parliament"
+        },
+        "25": {
+          "corrected": false,
+          "text": "Scottish Parliament"
+        },
+        "29": {
+          "corrected": false,
+          "text": "Scottish Parliament"
+        },
+        "31": {
+          "corrected": false,
+          "text": "Scottish Parliament"
+        }
+      }
+    },
+    "cat1_0794": {
+      "usable": true,
+      "clean_first": 1113,
+      "corrupt_first": 11432,
+      "clean_text": "\"First-past-the-post\"",
+      "corrupt_text": "Majority Voting",
+      "patched": {
+        "10": {
+          "corrected": true,
+          "text": "MajorFirst-past-the-post\""
+        },
+        "15": {
+          "corrected": true,
+          "text": "MajorFirst Past the Post\""
+        },
+        "19": {
+          "corrected": true,
+          "text": "MajorFirst Past the Post (FPTP) is a common name for the simple plurality system of voting."
+        },
+        "25": {
+          "corrected": true,
+          "text": "MajorFirst-Past-the-Post (FPTP)"
+        },
+        "29": {
+          "corrected": true,
+          "text": "MajorFirst Past the Post (FPTP) is a common name for the simple plurality system of voting."
+        },
+        "31": {
+          "corrected": true,
+          "text": "MajorFirst Past the Post (FPTP) is a common name for the simple plurality system of voting."
+        }
+      }
+    },
+    "cat1_0797": {
+      "usable": true,
+      "clean_first": 1183,
+      "corrupt_first": 2468,
+      "clean_text": "The Little Sparrow",
+      "corrupt_text": "La M\u00f4me (The Sparrow)",
+      "patched": {
+        "10": {
+          "corrected": true,
+          "text": "La Little Sparrow"
+        },
+        "15": {
+          "corrected": true,
+          "text": "La Little Sparrow"
+        },
+        "19": {
+          "corrected": true,
+          "text": "La Little Sparrow"
+        },
+        "25": {
+          "corrected": true,
+          "text": "La Little Sparrow"
+        },
+        "29": {
+          "corrected": true,
+          "text": "La Little Sparrow (The Little Sparrow)"
+        },
+        "31": {
+          "corrected": true,
+          "text": "La Little Sparrow (The Little Sparrow)"
+        }
+      }
+    },
+    "cat1_0835": {
+      "usable": true,
+      "clean_first": 1113,
+      "corrupt_first": 5351,
+      "clean_text": "\"The Color Purple\" (1985)",
+      "corrupt_text": "Beloved (1998)",
+      "patched": {
+        "10": {
+          "corrected": true,
+          "text": "BelThe Color Purple\" (1985)"
+        },
+        "15": {
+          "corrected": false,
+          "text": "BelTheLionKing\" (1994)"
+        },
+        "19": {
+          "corrected": false,
+          "text": "BelTheeBeauty (1996)"
+        },
+        "25": {
+          "corrected": false,
+          "text": "BelTheatreCat (1979)"
+        },
+        "29": {
+          "corrected": true,
+          "text": "BelTheufy (The Color Purple)"
+        },
+        "31": {
+          "corrected": true,
+          "text": "BelThevedere (The Color Purple)"
+        }
+      }
+    },
+    "cat1_0854": {
+      "usable": false,
+      "reason": "no clean+corrupt branch pair found"
+    },
+    "cat1_0965": {
+      "usable": true,
+      "clean_first": 6544,
+      "corrupt_first": 24708,
+      "clean_text": "RoboCop",
+      "corrupt_text": "Murphy, a part-human, part-cyborg law enforcer, originated from a futuristic Detroit in the series \"Detroit: Become Huma",
+      "patched": {
+        "10": {
+          "corrected": false,
+          "text": "Murphyo Copperfield (Murphy Law)"
+        },
+        "15": {
+          "corrected": false,
+          "text": "Murphyo' Murdock, a character from the series \"Detroit: Become Human.\""
+        },
+        "19": {
+          "corrected": false,
+          "text": "Murphyo'-Murphy, a cyborg law enforcer, originated from a futuristic Detroit."
+        },
+        "25": {
+          "corrected": false,
+          "text": "Murphyo'-12, a character from the Altered Carbon series."
+        },
+        "29": {
+          "corrected": false,
+          "text": "Murphyo'-12, a character from the Altered Carbon series."
+        },
+        "31": {
+          "corrected": false,
+          "text": "Murphyo'-12, a character from the Altered Carbon series."
+        }
+      }
+    },
+    "cat1_1002": {
+      "usable": true,
+      "clean_first": 29473,
+      "corrupt_first": 1183,
+      "clean_text": "55",
+      "corrupt_text": "The pub with the longest name in the UK has 60 letters.",
+      "patched": {
+        "10": {
+          "corrected": true,
+          "text": "The55 letters"
+        },
+        "15": {
+          "corrected": true,
+          "text": "The55, 75, or 95 are not the correct options. The pub with the longest name in the UK has 69 letters."
+        },
+        "19": {
+          "corrected": true,
+          "text": "The55, 75, or 95 options are not correct. The pub with the longest name in the UK has 69 letters."
+        },
+        "25": {
+          "corrected": true,
+          "text": "The55, 75, or 95 are not the correct options. The pub with the longest name in the UK has 69 letters."
+        },
+        "29": {
+          "corrected": true,
+          "text": "The55, 75, or 95 are not the correct options. The pub with the longest name in the UK has 69 letters."
+        },
+        "31": {
+          "corrected": true,
+          "text": "The55, 75, or 95 are not the correct options. The pub with the longest name in the UK has 69 letters."
+        }
+      }
+    },
+    "cat1_1018": {
+      "usable": true,
+      "clean_first": 5090,
+      "corrupt_first": 8540,
+      "clean_text": "Phil Spector",
+      "corrupt_text": "Philip Marshall",
+      "patched": {
+        "10": {
+          "corrected": true,
+          "text": "Philip Spector"
+        },
+        "15": {
+          "corrected": true,
+          "text": "Philip Spector"
+        },
+        "19": {
+          "corrected": true,
+          "text": "Philip Spector"
+        },
+        "25": {
+          "corrected": true,
+          "text": "Philip Spector"
+        },
+        "29": {
+          "corrected": true,
+          "text": "Philip Spector"
+        },
+        "31": {
+          "corrected": true,
+          "text": "Philip Spector"
+        }
+      }
+    },
+    "cat1_1025": {
+      "usable": false,
+      "reason": "no clean+corrupt branch pair found"
+    },
+    "cat1_1039": {
+      "usable": true,
+      "clean_first": 6360,
+      "corrupt_first": 6878,
+      "clean_text": "Yes, that is correct. The quote is from Margaret Mitchell's novel \"Gone with the Wind.\"",
+      "corrupt_text": "True",
+      "patched": {
+        "10": {
+          "corrected": true,
+          "text": "True, that's correct. Scarlett O'Hara's beauty was often overlooked due to her charm, as depicted in Margaret Mitchell's"
+        },
+        "15": {
+          "corrected": true,
+          "text": "True, that's correct. Scarlett O'Hara, the protagonist in Margaret Mitchell's novel \"Gone with the Wind,\" was often able"
+        },
+        "19": {
+          "corrected": true,
+          "text": "True, that's a quote from Margaret Mitchell's novel \"Gone with the Wind.\""
+        },
+        "25": {
+          "corrected": false,
+          "text": "True, Scarlett O'Hara's beauty was often overlooked due to her charm."
+        },
+        "29": {
+          "corrected": true,
+          "text": "True, according to the novel \"Gone with the Wind\" by Margaret Mitchell."
+        },
+        "31": {
+          "corrected": true,
+          "text": "True, according to the novel \"Gone with the Wind\" by Margaret Mitchell."
+        }
+      }
+    },
+    "cat1_1043": {
+      "usable": false,
+      "reason": "no clean+corrupt branch pair found"
+    },
+    "cat1_1118": {
+      "usable": true,
+      "clean_first": 1183,
+      "corrupt_first": 11818,
+      "clean_text": "The Italian Job",
+      "corrupt_text": "Alfie",
+      "patched": {
+        "10": {
+          "corrected": true,
+          "text": "Alf Italian Job (1969)"
+        },
+        "15": {
+          "corrected": true,
+          "text": "Alf Italian Job"
+        },
+        "19": {
+          "corrected": true,
+          "text": "Alf Italian Job, Michael Caine and his brother Stanley appeared together."
+        },
+        "25": {
+          "corrected": false,
+          "text": "Alf Italian Restaurant"
+        },
+        "29": {
+          "corrected": true,
+          "text": "Alf Italian-American Mafia Movie (The Italian Job)"
+        },
+        "31": {
+          "corrected": true,
+          "text": "Alf Italian-American Mafia Movie (The Italian Job)"
+        }
+      }
+    },
+    "cat1_1157": {
+      "usable": false,
+      "reason": "no clean+corrupt branch pair found"
+    },
+    "cat1_1163": {
+      "usable": true,
+      "clean_first": 22942,
+      "corrupt_first": 1318,
+      "clean_text": "Fisher (North Sea)",
+      "corrupt_text": "Viking Sea",
+      "patched": {
+        "10": {
+          "corrected": false,
+          "text": "V (North Sea)"
+        },
+        "15": {
+          "corrected": false,
+          "text": "V (North Sea)"
+        },
+        "19": {
+          "corrected": false,
+          "text": "V (North Sea)"
+        },
+        "25": {
+          "corrected": false,
+          "text": "V (North Sea)"
+        },
+        "29": {
+          "corrected": false,
+          "text": "V (North Sea)"
+        },
+        "31": {
+          "corrected": false,
+          "text": "V (North Sea)"
+        }
+      }
+    },
+    "cat1_1183": {
+      "usable": true,
+      "clean_first": 25904,
+      "corrupt_first": 5931,
+      "clean_text": "Geoff Hurst did not score all four goals for England in the 1966 World Cup final. The other goal was scored by Martin Pe",
+      "corrupt_text": "George Cohen scored the other goal for England in the 1966 World Cup final against Germany.",
+      "patched": {
+        "10": {
+          "corrected": true,
+          "text": "George Hurst scored 3 goals, and Martin Peters scored the other goal for England in the 1966 World Cup final against Ger"
+        },
+        "15": {
+          "corrected": true,
+          "text": "George Hurst did not score all four goals for England in the 1966 World Cup final. The fourth goal was scored by Martin "
+        },
+        "19": {
+          "corrected": true,
+          "text": "George Hurst scored 3 goals, and Martin Peters scored the other goal for England in the 1966 World Cup final against Ger"
+        },
+        "25": {
+          "corrected": true,
+          "text": "George Hurst scored 3 goals, and Martin Peters scored the other goal for England in the 1966 World Cup final against Ger"
+        },
+        "29": {
+          "corrected": true,
+          "text": "George Hurst scored 3 goals, and the other goal was scored by Martin Peters."
+        },
+        "31": {
+          "corrected": true,
+          "text": "George Hurst scored 3 goals, and the other goal was scored by Martin Peters."
+        }
+      }
+    },
+    "cat1_1207": {
+      "usable": false,
+      "reason": "no clean+corrupt branch pair found"
+    },
+    "cat1_1255": {
+      "usable": true,
+      "clean_first": 6734,
+      "corrupt_first": 10668,
+      "clean_text": "Peter Blake",
+      "corrupt_text": "Chris Ofili",
+      "patched": {
+        "10": {
+          "corrected": false,
+          "text": "Chris Blakeley"
+        },
+        "15": {
+          "corrected": false,
+          "text": "Chris Blakeley"
+        },
+        "19": {
+          "corrected": true,
+          "text": "Chris Blake\n\n(Note: This is a specific work by the artist Peter Blake, but the name \"Peter Blake\" was not part of the qu"
+        },
+        "25": {
+          "corrected": false,
+          "text": "Chris Blakey"
+        },
+        "29": {
+          "corrected": false,
+          "text": "Chris Blakey"
+        },
+        "31": {
+          "corrected": false,
+          "text": "Chris Blake\n\n(Note: Chris Blake is a pseudonym used by Banksy for some of his works.)"
+        }
+      }
+    },
+    "cat1_1298": {
+      "usable": true,
+      "clean_first": 13635,
+      "corrupt_first": 21275,
+      "clean_text": "Eric Bristow",
+      "corrupt_text": "Bobby George",
+      "patched": {
+        "10": {
+          "corrected": false,
+          "text": "Bobby Bristow"
+        },
+        "15": {
+          "corrected": false,
+          "text": "Bobby Bristow"
+        },
+        "19": {
+          "corrected": false,
+          "text": "Bobby Bristow"
+        },
+        "25": {
+          "corrected": false,
+          "text": "Bobby Bristow"
+        },
+        "29": {
+          "corrected": false,
+          "text": "Bobby Bristow"
+        },
+        "31": {
+          "corrected": false,
+          "text": "Bobby Bristow"
+        }
+      }
+    },
+    "cat1_1311": {
+      "usable": false,
+      "reason": "no clean+corrupt branch pair found"
+    },
+    "cat1_1314": {
+      "usable": false,
+      "reason": "no clean+corrupt branch pair found"
+    },
+    "cat1_1386": {
+      "usable": false,
+      "reason": "no clean+corrupt branch pair found"
+    }
+  }
+}

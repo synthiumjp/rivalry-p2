@@ -1,0 +1,12 @@
+{
+  "n_items": 416,
+  "mlp_auroc_hneuron": 0.8048172114374206,
+  "mlp_auroc_last": 0.7621066312703944,
+  "svcca_mean_cc": 0.925410270690918,
+  "svcca_null_mean": 0.07026206120103598,
+  "svcca_null_p95": 0.10096523426473138,
+  "svcca_excess": 0.855148209489882,
+  "svcca_p_one": 0.0,
+  "svcca_k": 3,
+  "note": "DEVELOPMENT rehearsal; confirmatory is hold-out (reg 3.5). Deviations: (1) SVCCA between raw loci reps not label-trained MLP hiddens; (2) mean canonical correlation at k=3 vs shuffle null, NOT rho_1 (degenerate at this n). Descriptive."
+}

@@ -1,15 +1,28 @@
-# large / regenerable data
+# ===== regenerable data (do not track) =====
 data/*.jsonl
-data/activations_*/
 data/*.npy
-models/*.pkl
-data/hneuron_activations_*.jsonl
-data/se_*.jsonl
-data/clusters_*.jsonl
-data/responses_*.jsonl
+data/*.parquet
+data/*.pt
+data/lens_corpus_*.txt
+
+# activation / capture directories
+data/activations_*/
+data/layer_stacks_*/
+data/hidden_5b_*/
+data/stepc_resid_*/
+data/tuned_lens_*/
+
+# detectors, figures, python caches
+models/
 figures/
-# but DO track small result + provenance json
+**/__pycache__/
+
+# ===== result / provenance json =====
+data/*.json
 !data/train_qids_*_v2.json
 !data/layer_dynamics_v2_*.json
 !data/hneuron_correspondence_v2_*.json
+!data/commitment_v2_*.json
 !data/cat1_*_prompt_ids.json
+!data/h5_5b_*.json
+!data/h6_*.json
