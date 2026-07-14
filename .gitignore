@@ -27,3 +27,4 @@ data/*.json
 !data/h5_5b_*.json
 !data/h6_*.json
 !data/h4_stage_coupling_dev.json
+!data/h1_encoding_dev.json
