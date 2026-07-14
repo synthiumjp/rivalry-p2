@@ -74,10 +74,10 @@ def main():
     print(f"\nH4 dev preview: {n_clear}/{len(summary)} clear (rho>0.3, p<0.005). "
           f"MEI needs >=3/5 on the HOLD-OUT. Development only.")
     Path(DATA / "h4_stage_coupling_dev.json").write_text(json.dumps(
-        {"models": [{"tag": t, "rho": float(r), "p": float(pp), "n": n,
-                     "L_step0": l0, "clears": bool(c)}
+        {"models": [{"tag": t, "rho": float(r), "p": float(pp), "n": int(n),
+                     "L_step0": int(l0), "clears": bool(c)}
                     for t, r, pp, n, l0, c in summary],
-         "n_clear": n_clear, "n_models": len(summary)}, indent=2))
+         "n_clear": int(n_clear), "n_models": len(summary)}, indent=2))
 
 if __name__ == "__main__":
     main()
