@@ -1,0 +1,61 @@
+{
+  "models": [
+    {
+      "tag": "mistral_instruct",
+      "n_kept": 530,
+      "n_excluded": 270,
+      "n_correct": 400,
+      "n_incorrect": 130,
+      "L_correct_mean": 25.0025,
+      "L_incorrect_mean": 25.6,
+      "cohens_d_incorrect_minus_correct": 0.1068429069982201,
+      "t": 1.0876168726153754,
+      "p_one_tailed": 0.13892625129853975,
+      "clears": false
+    },
+    {
+      "tag": "qwen_instruct",
+      "n_kept": 550,
+      "n_excluded": 250,
+      "n_correct": 322,
+      "n_incorrect": 228,
+      "L_correct_mean": 24.891304347826086,
+      "L_incorrect_mean": 24.583333333333332,
+      "cohens_d_incorrect_minus_correct": -0.08204501902223262,
+      "t": -0.9277293631778849,
+      "p_one_tailed": 0.8229506479783535,
+      "clears": false
+    },
+    {
+      "tag": "llama_instruct",
+      "n_kept": 642,
+      "n_excluded": 158,
+      "n_correct": 517,
+      "n_incorrect": 125,
+      "L_correct_mean": 26.083172147001935,
+      "L_incorrect_mean": 25.432,
+      "cohens_d_incorrect_minus_correct": -0.10427154430114938,
+      "t": -1.0303636132371237,
+      "p_one_tailed": 0.8478967263492989,
+      "clears": false
+    },
+    {
+      "tag": "gemma_instruct",
+      "n_kept": 747,
+      "n_excluded": 53,
+      "n_correct": 554,
+      "n_incorrect": 193,
+      "L_correct_mean": 35.231046931407946,
+      "L_incorrect_mean": 35.259067357512954,
+      "cohens_d_incorrect_minus_correct": 0.004483860495051806,
+      "t": 0.051250995201029166,
+      "p_one_tailed": 0.4795806072369416,
+      "clears": false
+    }
+  ],
+  "n_clear": 0,
+  "n_models": 4,
+  "unweighted_mean_d": -0.01874744895752752,
+  "sign_convention": "d = (L*_incorrect - L*_correct)/pooled_sd; positive = registered direction (incorrect later)",
+  "note": "Development commitment-ordering result. Reversals (negative d) are the pre-documented expected outcome on instruct. Not a confirmatory result; hold-out sealed."
+}
