@@ -31,6 +31,7 @@ Usage (fresh model, C pinned from validation):
 import os
 import json
 import argparse
+import warnings
 
 import numpy as np
 import joblib
@@ -91,7 +92,10 @@ def fit_one(X, y, C, max_iter, seed):
     clf = LogisticRegression(penalty="l1", solver="saga", C=C,
                              class_weight="balanced", max_iter=max_iter,
                              random_state=seed, tol=1e-4)
-    clf.fit(X, y)
+    with warnings.catch_warnings():
+        warnings.filterwarnings("ignore", message=".*penalty.*", category=FutureWarning)
+        warnings.filterwarnings("ignore", message=".*penalty.*")
+        clf.fit(X, y)
     return clf
 
 
@@ -151,7 +155,10 @@ def main():
 
     # CV AUROC (replication gate 0.65)
     cv = StratifiedKFold(5, shuffle=True, random_state=args.seed)
-    auroc = cross_val_score(clf, X, y, cv=cv, scoring="roc_auc").mean()
+    with warnings.catch_warnings():
+        warnings.filterwarnings("ignore", message=".*penalty.*", category=FutureWarning)
+        warnings.filterwarnings("ignore", message=".*penalty.*")
+        auroc = cross_val_score(clf, X, y, cv=cv, scoring="roc_auc").mean()
     print(f"  5-fold CV AUROC: {auroc:.4f}  "
           f"({'PASS' if auroc > 0.65 else 'MARGINAL/FAIL'} vs 0.65)")
 
